@@ -1,0 +1,13 @@
+{
+  "dateStr": null,
+  "globalNewDeaths": null,
+  "globalNewCases": null,
+  "trafficLight": {
+    "name": null,
+    "color": null
+  },
+  "cities": {
+    "newCases": null,
+    "newDeaths": null
+  }
+}

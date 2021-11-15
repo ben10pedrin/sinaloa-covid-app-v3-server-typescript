@@ -35,6 +35,7 @@ export const downloadPdfs = async (NUMBER_OF_PDFS: number) => {
 
     // Call to remove unused pdfs
     removeUnusedJsons(downloadedFiles)
+    return downloadedFiles
 }
 
 const downloadSinglePdf = async (jsonFilename: string, filename: string): Promise<boolean> => {
