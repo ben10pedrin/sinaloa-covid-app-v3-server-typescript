@@ -1,0 +1,35 @@
+{
+    "dateStr": "Martes 2 De Noviembre",
+    "globalNewDeaths": 0,
+    "globalNewCases": 17,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 7,
+        "Guasave": 5,
+        "Ahome": 2,
+        "El Fuerte": 1,
+        "Mazatlán": 1,
+        "Navolato": 1
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 100,
+        "Ahome": 49,
+        "Guasave": 46,
+        "Mazatlán": 44,
+        "El Fuerte": 22,
+        "Salvador Alvarado": 18,
+        "Navolato": 8,
+        "Elota": 6,
+        "Sinaloa": 6,
+        "Badiraguato": 2,
+        "Mocorito": 2,
+        "Escuinapa": 1,
+        "Cosalá": 1,
+        "Rosario": 0,
+        "Choix": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0
+    }
+}

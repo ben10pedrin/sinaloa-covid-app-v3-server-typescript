@@ -1,0 +1,40 @@
+{
+    "dateStr": "Lunes 4 De Octubre",
+    "globalNewDeaths": 6,
+    "globalNewCases": 78,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 26,
+        "Ahome": 20,
+        "Guasave": 10,
+        "Navolato": 5,
+        "Elota": 5,
+        "Salvador Alvarado": 5,
+        "Choix": 2,
+        "Mazatlán": 2,
+        "Mocorito": 1,
+        "San Ignacio": 1,
+        "Badiraguato": 1
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 189,
+        "Guasave": 130,
+        "Culiacán": 122,
+        "El Fuerte": 67,
+        "Mazatlán": 62,
+        "Elota": 30,
+        "Salvador Alvarado": 16,
+        "Navolato": 15,
+        "Badiraguato": 8,
+        "Escuinapa": 7,
+        "Angostura": 6,
+        "Mocorito": 5,
+        "Choix": 5,
+        "Sinaloa": 4,
+        "Cosalá": 4,
+        "Concordia": 1,
+        "Rosario": 1,
+        "San Ignacio": 1
+    }
+}

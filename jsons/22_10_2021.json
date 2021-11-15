@@ -1,0 +1,37 @@
+{
+    "dateStr": "Viernes 22 De Octubre",
+    "globalNewDeaths": 3,
+    "globalNewCases": 43,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 11,
+        "Guasave": 11,
+        "Ahome": 10,
+        "Salvador Alvarado": 3,
+        "Mazatlán": 2,
+        "Navolato": 2,
+        "Badiraguato": 2,
+        "Sinaloa": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 94,
+        "Ahome": 92,
+        "Guasave": 80,
+        "El Fuerte": 42,
+        "Mazatlán": 33,
+        "Salvador Alvarado": 20,
+        "Navolato": 10,
+        "Sinaloa": 7,
+        "Elota": 5,
+        "Mocorito": 3,
+        "Badiraguato": 3,
+        "Escuinapa": 2,
+        "Choix": 2,
+        "Cosalá": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0,
+        "Rosario": 0
+    }
+}

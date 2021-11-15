@@ -1,0 +1,38 @@
+{
+    "dateStr": "Invalid Date Invalid Date De Invalid Date",
+    "globalNewDeaths": 18,
+    "globalNewCases": 198,
+    "trafficLight": "Amarillo",
+    "newCases": {
+        "Culiacán": 75,
+        "Ahome": 59,
+        "Guasave": 21,
+        "Mazatlán": 17,
+        "Navolato": 13,
+        "Escuinapa": 6,
+        "Sinaloa": 3,
+        "Badiraguato": 2,
+        "Mocorito": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 382,
+        "Culiacán": 326,
+        "Guasave": 203,
+        "Mazatlán": 98,
+        "Elota": 52,
+        "El Fuerte": 38,
+        "Navolato": 31,
+        "Badiraguato": 22,
+        "Salvador Alvarado": 21,
+        "Angostura": 20,
+        "Cosalá": 19,
+        "Escuinapa": 18,
+        "Mocorito": 15,
+        "Sinaloa": 12,
+        "Rosario": 10,
+        "Concordia": 7,
+        "Choix": 2,
+        "San Ignacio": 2
+    }
+}

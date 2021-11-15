@@ -1,0 +1,37 @@
+{
+    "dateStr": "Jueves 30 De Septiembre",
+    "globalNewDeaths": 6,
+    "globalNewCases": 85,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Ahome": 26,
+        "Culiacán": 17,
+        "Guasave": 15,
+        "El Fuerte": 15,
+        "Elota": 4,
+        "Sinaloa": 3,
+        "Salvador Alvarado": 3,
+        "Mazatlán": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 212,
+        "Guasave": 156,
+        "Culiacán": 124,
+        "El Fuerte": 65,
+        "Mazatlán": 55,
+        "Elota": 31,
+        "Salvador Alvarado": 18,
+        "Badiraguato": 12,
+        "Sinaloa": 10,
+        "Angostura": 8,
+        "Navolato": 7,
+        "Escuinapa": 7,
+        "Mocorito": 6,
+        "Choix": 3,
+        "Cosalá": 2,
+        "San Ignacio": 1,
+        "Concordia": 0,
+        "Rosario": 0
+    }
+}

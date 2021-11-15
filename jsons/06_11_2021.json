@@ -1,0 +1,47 @@
+{
+    "dateStr": "Domingo 7 De Noviembre",
+    "globalNewDeaths": 12,
+    "globalNewCases": 49,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 18,
+        "Ahome": 11,
+        "Guasave": 7,
+        "El Fuerte": 3,
+        "Sinaloa": 2,
+        "Escuinapa": 2,
+        "Salvador Alvarado": 2,
+        "Mazatlán": 1,
+        "Navolato": 1,
+        "Elota": 1,
+        "Cosalá": 1
+    },
+    "newDeaths": {
+        "Culiacán": 5,
+        "Guasave": 3,
+        "Mazatlán": 1,
+        "Ahome": 1,
+        "Badiraguato": 1,
+        "Cosalá": 1
+    },
+    "activeCases": {
+        "Culiacán": 79,
+        "Guasave": 39,
+        "Ahome": 31,
+        "Mazatlán": 23,
+        "El Fuerte": 15,
+        "Salvador Alvarado": 14,
+        "Sinaloa": 5,
+        "Elota": 4,
+        "Navolato": 4,
+        "Angostura": 3,
+        "Badiraguato": 1,
+        "Rosario": 1,
+        "Concordia": 1,
+        "Mocorito": 0,
+        "Cosalá": 0,
+        "San Ignacio": 0,
+        "Escuinapa": 0,
+        "Choix": 0
+    }
+}

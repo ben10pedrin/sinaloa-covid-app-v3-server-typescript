@@ -1,0 +1,40 @@
+{
+    "dateStr": "Domingo 15 De Agosto",
+    "globalNewDeaths": 25,
+    "globalNewCases": 361,
+    "trafficLight": "Rojo",
+    "newCases": {
+        "Culiacán": 147,
+        "Mazatlán": 73,
+        "Ahome": 65,
+        "Guasave": 49,
+        "Angostura": 5,
+        "Rosario": 5,
+        "Choix": 4,
+        "Concordia": 4,
+        "Escuinapa": 3,
+        "Elota": 3,
+        "Sinaloa": 3
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 721,
+        "Ahome": 584,
+        "Guasave": 346,
+        "Mazatlán": 222,
+        "Navolato": 91,
+        "Elota": 85,
+        "El Fuerte": 79,
+        "Escuinapa": 75,
+        "Salvador Alvarado": 66,
+        "Badiraguato": 48,
+        "Cosalá": 46,
+        "Rosario": 27,
+        "Angostura": 23,
+        "Mocorito": 19,
+        "Choix": 13,
+        "Sinaloa": 12,
+        "Concordia": 7,
+        "San Ignacio": 5
+    }
+}

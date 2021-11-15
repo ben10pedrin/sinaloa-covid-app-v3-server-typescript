@@ -1,0 +1,42 @@
+{
+    "dateStr": "Sábado 28 De Agosto",
+    "globalNewDeaths": 19,
+    "globalNewCases": 229,
+    "trafficLight": "Amarillo",
+    "newCases": {
+        "Culiacán": 82,
+        "Ahome": 59,
+        "Guasave": 22,
+        "Mazatlán": 12,
+        "Badiraguato": 9,
+        "Rosario": 8,
+        "Salvador Alvarado": 7,
+        "Elota": 7,
+        "Navolato": 5,
+        "Sinaloa": 5,
+        "Angostura": 5,
+        "El Fuerte": 4,
+        "Mocorito": 4
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 524,
+        "Culiacán": 423,
+        "Guasave": 241,
+        "Mazatlán": 123,
+        "Elota": 87,
+        "El Fuerte": 60,
+        "Navolato": 54,
+        "Badiraguato": 41,
+        "Escuinapa": 39,
+        "Angostura": 29,
+        "Salvador Alvarado": 29,
+        "Cosalá": 27,
+        "Mocorito": 20,
+        "Sinaloa": 16,
+        "Rosario": 10,
+        "Concordia": 4,
+        "Choix": 4,
+        "San Ignacio": 1
+    }
+}

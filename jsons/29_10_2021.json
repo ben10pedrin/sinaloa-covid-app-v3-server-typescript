@@ -1,0 +1,36 @@
+{
+    "dateStr": "Viernes 29 De Octubre",
+    "globalNewDeaths": 20,
+    "globalNewCases": 30,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Guasave": 7,
+        "Mazatlán": 5,
+        "Ahome": 4,
+        "El Fuerte": 4,
+        "Badiraguato": 4,
+        "Sinaloa": 3,
+        "Elota": 3
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 79,
+        "Ahome": 59,
+        "Guasave": 45,
+        "Mazatlán": 42,
+        "El Fuerte": 25,
+        "Salvador Alvarado": 21,
+        "Navolato": 15,
+        "Elota": 8,
+        "Sinaloa": 4,
+        "Badiraguato": 3,
+        "Mocorito": 1,
+        "Choix": 0,
+        "Escuinapa": 0,
+        "Rosario": 0,
+        "Cosalá": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0
+    }
+}

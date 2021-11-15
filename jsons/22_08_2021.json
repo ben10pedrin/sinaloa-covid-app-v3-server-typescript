@@ -1,0 +1,36 @@
+{
+    "dateStr": "Domingo 22 De Agosto",
+    "globalNewDeaths": 58,
+    "globalNewCases": 301,
+    "trafficLight": "Rojo",
+    "newCases": {
+        "Culiacán": 144,
+        "Mazatlán": 95,
+        "Ahome": 27,
+        "Guasave": 27,
+        "Mocorito": 4,
+        "El Fuerte": 2,
+        "Badiraguato": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 521,
+        "Culiacán": 520,
+        "Guasave": 259,
+        "Mazatlán": 231,
+        "Elota": 95,
+        "Navolato": 71,
+        "El Fuerte": 63,
+        "Escuinapa": 60,
+        "Salvador Alvarado": 50,
+        "Badiraguato": 46,
+        "Cosalá": 36,
+        "Mocorito": 30,
+        "Angostura": 21,
+        "Sinaloa": 12,
+        "Rosario": 6,
+        "Choix": 4,
+        "Concordia": 1,
+        "San Ignacio": 0
+    }
+}

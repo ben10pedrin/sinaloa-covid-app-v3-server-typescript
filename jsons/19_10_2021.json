@@ -1,0 +1,36 @@
+{
+    "dateStr": "Martes 19 De Octubre",
+    "globalNewDeaths": 3,
+    "globalNewCases": 47,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Ahome": 16,
+        "Guasave": 8,
+        "Culiacán": 7,
+        "Salvador Alvarado": 7,
+        "El Fuerte": 5,
+        "Navolato": 2,
+        "Mocorito": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 114,
+        "Culiacán": 91,
+        "Guasave": 88,
+        "Mazatlán": 53,
+        "El Fuerte": 41,
+        "Salvador Alvarado": 12,
+        "Elota": 10,
+        "Navolato": 7,
+        "Badiraguato": 6,
+        "Mocorito": 5,
+        "Sinaloa": 5,
+        "Escuinapa": 2,
+        "Choix": 2,
+        "Cosalá": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0,
+        "Rosario": 0
+    }
+}

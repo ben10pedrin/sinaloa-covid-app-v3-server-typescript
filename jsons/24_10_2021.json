@@ -1,0 +1,34 @@
+{
+    "dateStr": "Domingo 24 De Octubre",
+    "globalNewDeaths": 9,
+    "globalNewCases": 40,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 23,
+        "Ahome": 8,
+        "Guasave": 6,
+        "Mazatlán": 2,
+        "Mocorito": 1
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 104,
+        "Ahome": 86,
+        "Guasave": 77,
+        "El Fuerte": 36,
+        "Mazatlán": 24,
+        "Salvador Alvarado": 22,
+        "Navolato": 12,
+        "Elota": 9,
+        "Sinaloa": 7,
+        "Mocorito": 4,
+        "Badiraguato": 3,
+        "Escuinapa": 2,
+        "Rosario": 2,
+        "Choix": 1,
+        "Cosalá": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0
+    }
+}

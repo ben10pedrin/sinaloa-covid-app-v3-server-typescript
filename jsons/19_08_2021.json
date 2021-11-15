@@ -1,0 +1,42 @@
+{
+    "dateStr": "Jueves 19 De Agosto",
+    "globalNewDeaths": 32,
+    "globalNewCases": 323,
+    "trafficLight": "Rojo",
+    "newCases": {
+        "Culiacán": 78,
+        "Ahome": 72,
+        "Mazatlán": 44,
+        "Escuinapa": 36,
+        "Guasave": 34,
+        "El Fuerte": 15,
+        "Elota": 12,
+        "Cosalá": 9,
+        "Badiraguato": 7,
+        "Salvador Alvarado": 7,
+        "Mocorito": 4,
+        "Angostura": 3,
+        "San Ignacio": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 577,
+        "Ahome": 531,
+        "Guasave": 291,
+        "Mazatlán": 193,
+        "Elota": 93,
+        "Navolato": 88,
+        "El Fuerte": 73,
+        "Escuinapa": 70,
+        "Salvador Alvarado": 60,
+        "Badiraguato": 51,
+        "Cosalá": 42,
+        "Mocorito": 20,
+        "Angostura": 15,
+        "Sinaloa": 10,
+        "Choix": 6,
+        "Rosario": 5,
+        "Concordia": 4,
+        "San Ignacio": 4
+    }
+}

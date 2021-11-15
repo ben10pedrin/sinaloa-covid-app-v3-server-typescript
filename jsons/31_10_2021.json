@@ -1,0 +1,34 @@
+{
+    "dateStr": "Invalid Date Invalid Date De Invalid Date",
+    "globalNewDeaths": 1,
+    "globalNewCases": 57,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Guasave": 19,
+        "Culiacán": 12,
+        "Ahome": 12,
+        "El Fuerte": 7,
+        "Mazatlán": 7
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 93,
+        "Ahome": 53,
+        "Guasave": 47,
+        "Mazatlán": 45,
+        "El Fuerte": 23,
+        "Salvador Alvarado": 19,
+        "Navolato": 8,
+        "Elota": 8,
+        "Sinaloa": 7,
+        "Badiraguato": 3,
+        "Mocorito": 3,
+        "Escuinapa": 1,
+        "Cosalá": 1,
+        "Rosario": 0,
+        "Choix": 0,
+        "Concordia": 0,
+        "Angostura": 0,
+        "San Ignacio": 0
+    }
+}

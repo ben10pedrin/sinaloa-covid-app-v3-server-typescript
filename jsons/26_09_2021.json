@@ -1,0 +1,36 @@
+{
+    "dateStr": "Domingo 26 De Septiembre",
+    "globalNewDeaths": 10,
+    "globalNewCases": 98,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Culiacán": 33,
+        "Guasave": 33,
+        "Ahome": 24,
+        "Elota": 3,
+        "Mazatlán": 3,
+        "Cosalá": 2,
+        "Sinaloa": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 189,
+        "Guasave": 153,
+        "Culiacán": 123,
+        "Mazatlán": 62,
+        "El Fuerte": 46,
+        "Elota": 38,
+        "Salvador Alvarado": 18,
+        "Badiraguato": 17,
+        "Angostura": 14,
+        "Navolato": 13,
+        "Mocorito": 11,
+        "Sinaloa": 8,
+        "Cosalá": 5,
+        "Choix": 4,
+        "Escuinapa": 3,
+        "Rosario": 1,
+        "Concordia": 1,
+        "San Ignacio": 1
+    }
+}

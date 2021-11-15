@@ -1,0 +1,41 @@
+{
+    "dateStr": "Viernes 13 De Agosto",
+    "globalNewDeaths": 28,
+    "globalNewCases": 381,
+    "trafficLight": "Rojo",
+    "newCases": {
+        "Ahome": 107,
+        "Mazatlán": 80,
+        "Culiacán": 79,
+        "Guasave": 35,
+        "Cosalá": 15,
+        "Navolato": 14,
+        "El Fuerte": 12,
+        "Elota": 11,
+        "Badiraguato": 10,
+        "Escuinapa": 8,
+        "Salvador Alvarado": 6,
+        "Sinaloa": 4
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Culiacán": 781,
+        "Ahome": 583,
+        "Guasave": 315,
+        "Mazatlán": 227,
+        "Navolato": 120,
+        "El Fuerte": 82,
+        "Elota": 80,
+        "Escuinapa": 68,
+        "Salvador Alvarado": 66,
+        "Cosalá": 45,
+        "Badiraguato": 44,
+        "Rosario": 40,
+        "Angostura": 29,
+        "Sinaloa": 16,
+        "Mocorito": 13,
+        "Choix": 9,
+        "San Ignacio": 5,
+        "Concordia": 3
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "dateStr": "Lunes 23 De Agosto",
+    "globalNewDeaths": 59,
+    "globalNewCases": 295,
+    "trafficLight": "Amarillo",
+    "newCases": {
+        "Culiacán": 189,
+        "Mazatlán": 41,
+        "Ahome": 40,
+        "Guasave": 20,
+        "El Fuerte": 3,
+        "Escuinapa": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 490,
+        "Culiacán": 459,
+        "Guasave": 244,
+        "Mazatlán": 173,
+        "Elota": 94,
+        "El Fuerte": 61,
+        "Escuinapa": 57,
+        "Navolato": 56,
+        "Badiraguato": 46,
+        "Salvador Alvarado": 38,
+        "Cosalá": 28,
+        "Mocorito": 21,
+        "Angostura": 21,
+        "Sinaloa": 12,
+        "Rosario": 4,
+        "Choix": 4,
+        "Concordia": 0,
+        "San Ignacio": 0
+    }
+}

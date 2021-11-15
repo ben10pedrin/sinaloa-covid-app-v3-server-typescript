@@ -1,0 +1,35 @@
+{
+  "name": "sinaloa-covid-app-v3-server-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts",
+    "build": "rimraf dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben10pedrin/sinaloa-covid-app-v3-server-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben10pedrin/sinaloa-covid-app-v3-server-typescript/issues"
+  },
+  "homepage": "https://github.com/ben10pedrin/sinaloa-covid-app-v3-server-typescript#readme",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^16.11.7",
+    "rimraf": "^3.0.2",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/pdf-parse": "^1.1.1",
+    "axios": "^0.24.0",
+    "node": "^17.1.0",
+    "pdf-parse": "^1.1.1",
+    "string-similarity": "^4.0.4"
+  }
+}

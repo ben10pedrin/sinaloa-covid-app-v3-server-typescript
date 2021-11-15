@@ -1,0 +1,39 @@
+{
+    "dateStr": "Jueves 16 De Septiembre",
+    "globalNewDeaths": 15,
+    "globalNewCases": 85,
+    "trafficLight": "Amarillo",
+    "newCases": {
+        "Guasave": 25,
+        "Ahome": 24,
+        "El Fuerte": 9,
+        "Navolato": 7,
+        "Mocorito": 5,
+        "Sinaloa": 4,
+        "Angostura": 4,
+        "Culiacán": 3,
+        "Mazatlán": 2,
+        "Choix": 2
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 227,
+        "Culiacán": 152,
+        "Guasave": 122,
+        "Mazatlán": 64,
+        "El Fuerte": 49,
+        "Navolato": 33,
+        "Salvador Alvarado": 27,
+        "Sinaloa": 25,
+        "Elota": 24,
+        "Cosalá": 24,
+        "Angostura": 14,
+        "Mocorito": 12,
+        "Rosario": 10,
+        "Escuinapa": 8,
+        "Badiraguato": 7,
+        "Choix": 7,
+        "Concordia": 0,
+        "San Ignacio": 0
+    }
+}

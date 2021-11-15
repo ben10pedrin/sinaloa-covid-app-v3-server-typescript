@@ -1,0 +1,37 @@
+{
+    "dateStr": "Miércoles 13 De Octubre",
+    "globalNewDeaths": 8,
+    "globalNewCases": 57,
+    "trafficLight": "Verde",
+    "newCases": {
+        "Ahome": 15,
+        "Guasave": 12,
+        "Mazatlán": 9,
+        "El Fuerte": 7,
+        "Culiacán": 7,
+        "Sinaloa": 4,
+        "Elota": 2,
+        "Escuinapa": 1
+    },
+    "newDeaths": null,
+    "activeCases": {
+        "Ahome": 124,
+        "Mazatlán": 102,
+        "Guasave": 93,
+        "Culiacán": 91,
+        "El Fuerte": 50,
+        "Navolato": 12,
+        "Salvador Alvarado": 11,
+        "Elota": 10,
+        "Sinaloa": 8,
+        "Badiraguato": 5,
+        "Cosalá": 2,
+        "Angostura": 2,
+        "Mocorito": 1,
+        "Escuinapa": 1,
+        "Choix": 1,
+        "Concordia": 0,
+        "San Ignacio": 0,
+        "Rosario": 0
+    }
+}
