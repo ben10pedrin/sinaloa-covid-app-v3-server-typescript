@@ -18,7 +18,16 @@
         "Rosario": 3,
         "Cosalá": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 14,
+        "Mazatlán": 5,
+        "Guasave": 4,
+        "Ahome": 2,
+        "Navolato": 1,
+        "Sinaloa": 1,
+        "Escuinapa": 1,
+        "Concordia": 1
+    },
     "activeCases": {
         "Ahome": 511,
         "Culiacán": 423,

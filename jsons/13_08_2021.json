@@ -17,7 +17,16 @@
         "Salvador Alvarado": 6,
         "Sinaloa": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 8,
+        "Ahome": 7,
+        "Mazatlán": 3,
+        "Guasave": 3,
+        "Mocorito": 3,
+        "Salvador Alvarado": 2,
+        "Choix": 1,
+        "Navolato": 1
+    },
     "activeCases": {
         "Culiacán": 781,
         "Ahome": 583,

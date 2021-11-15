@@ -1,5 +1,5 @@
 {
-    "dateStr": "Viernes 3 De Septiembre",
+    "dateStr": "Jueves 2 De Septiembre",
     "globalNewDeaths": 26,
     "globalNewCases": 171,
     "trafficLight": "Amarillo",
@@ -16,7 +16,17 @@
         "Concordia": 3,
         "Badiraguato": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 7,
+        "Guasave": 6,
+        "Sinaloa": 4,
+        "El Fuerte": 3,
+        "Culiacán": 2,
+        "Mazatlán": 1,
+        "Salvador Alvarado": 1,
+        "Mocorito": 1,
+        "Rosario": 1
+    },
     "activeCases": {
         "Ahome": 388,
         "Culiacán": 329,

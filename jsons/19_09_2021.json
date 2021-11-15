@@ -15,7 +15,11 @@
         "Angostura": 3,
         "Mazatlán": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 6,
+        "Mazatlán": 2,
+        "Culiacán": 1
+    },
     "activeCases": {
         "Ahome": 197,
         "Culiacán": 142,

@@ -14,7 +14,10 @@
         "Sinaloa": 1,
         "Rosario": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 5,
+        "Rosario": 1
+    },
     "activeCases": {
         "Ahome": 125,
         "Culiacán": 99,

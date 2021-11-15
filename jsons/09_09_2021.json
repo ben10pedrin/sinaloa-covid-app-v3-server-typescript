@@ -17,7 +17,14 @@
         "Mocorito": 2,
         "Rosario": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 24,
+        "Guasave": 1,
+        "Escuinapa": 1,
+        "El Fuerte": 1,
+        "Navolato": 1,
+        "Angostura": 1
+    },
     "activeCases": {
         "Ahome": 261,
         "Culiacán": 189,

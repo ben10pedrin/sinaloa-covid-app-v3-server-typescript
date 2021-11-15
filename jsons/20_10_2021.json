@@ -12,7 +12,11 @@
         "El Fuerte": 3,
         "Mazatlán": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 2,
+        "Mazatlán": 1,
+        "El Fuerte": 1
+    },
     "activeCases": {
         "Ahome": 113,
         "Culiacán": 81,

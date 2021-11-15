@@ -12,7 +12,15 @@
         "Culiacán": 6,
         "Mazatlán": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 2,
+        "Ahome": 2,
+        "Mazatlán": 2,
+        "Escuinapa": 1,
+        "Angostura": 1,
+        "Sinaloa": 1,
+        "Mocorito": 1
+    },
     "activeCases": {
         "Ahome": 178,
         "Culiacán": 127,

@@ -12,7 +12,11 @@
         "Navolato": 2,
         "Mocorito": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 1,
+        "Escuinapa": 1,
+        "El Fuerte": 1
+    },
     "activeCases": {
         "Ahome": 114,
         "Culiacán": 91,

@@ -14,7 +14,13 @@
         "Navolato": 2,
         "Rosario": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 2,
+        "Guasave": 2,
+        "El Fuerte": 2,
+        "Mazatlán": 1,
+        "Choix": 1
+    },
     "activeCases": {
         "Culiacán": 104,
         "Ahome": 88,

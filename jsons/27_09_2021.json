@@ -11,7 +11,12 @@
         "Elota": 1,
         "El Fuerte": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 4,
+        "Ahome": 2,
+        "Guasave": 2,
+        "Rosario": 1
+    },
     "activeCases": {
         "Ahome": 174,
         "Guasave": 139,

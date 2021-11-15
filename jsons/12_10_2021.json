@@ -12,7 +12,12 @@
         "Badiraguato": 5,
         "Guasave": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 5,
+        "El Fuerte": 2,
+        "Mazatlán": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Ahome": 123,
         "Mazatlán": 100,

@@ -10,7 +10,12 @@
         "Mazatlán": 2,
         "Mocorito": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3,
+        "Guasave": 2,
+        "El Fuerte": 2,
+        "Mazatlán": 2
+    },
     "activeCases": {
         "Culiacán": 104,
         "Ahome": 86,

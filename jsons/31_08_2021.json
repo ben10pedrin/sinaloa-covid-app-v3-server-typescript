@@ -1,5 +1,5 @@
 {
-    "dateStr": "Invalid Date Invalid Date De Invalid Date",
+    "dateStr": "Martes 31 De Agosto",
     "globalNewDeaths": 18,
     "globalNewCases": 198,
     "trafficLight": "Amarillo",
@@ -14,7 +14,15 @@
         "Badiraguato": 2,
         "Mocorito": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 5,
+        "Guasave": 4,
+        "Sinaloa": 4,
+        "El Fuerte": 2,
+        "Concordia": 1,
+        "Angostura": 1,
+        "Salvador Alvarado": 1
+    },
     "activeCases": {
         "Ahome": 382,
         "Culiacán": 326,

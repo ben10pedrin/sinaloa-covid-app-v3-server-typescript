@@ -1,5 +1,5 @@
 {
-    "dateStr": "Domingo 3 De Octubre",
+    "dateStr": "Sábado 2 De Octubre",
     "globalNewDeaths": 7,
     "globalNewCases": 80,
     "trafficLight": "Verde",
@@ -14,7 +14,13 @@
         "Salvador Alvarado": 3,
         "Mocorito": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 2,
+        "Mazatlán": 2,
+        "Sinaloa": 1,
+        "Mocorito": 1,
+        "Navolato": 1
+    },
     "activeCases": {
         "Ahome": 208,
         "Guasave": 156,

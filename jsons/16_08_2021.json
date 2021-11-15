@@ -14,7 +14,12 @@
         "Salvador Alvarado": 2,
         "El Fuerte": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 11,
+        "Culiacán": 8,
+        "Mazatlán": 2,
+        "Guasave": 1
+    },
     "activeCases": {
         "Culiacán": 605,
         "Ahome": 492,

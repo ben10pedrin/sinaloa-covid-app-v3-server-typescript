@@ -13,7 +13,13 @@
         "Elota": 2,
         "Escuinapa": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3,
+        "Guasave": 2,
+        "Mazatlán": 1,
+        "Mocorito": 1,
+        "Escuinapa": 1
+    },
     "activeCases": {
         "Ahome": 124,
         "Mazatlán": 102,

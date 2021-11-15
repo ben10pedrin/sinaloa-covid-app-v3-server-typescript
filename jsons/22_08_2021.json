@@ -12,7 +12,16 @@
         "El Fuerte": 2,
         "Badiraguato": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Mazatlán": 26,
+        "Culiacán": 25,
+        "Rosario": 2,
+        "Concordia": 1,
+        "San Ignacio": 1,
+        "Mocorito": 1,
+        "Angostura": 1,
+        "Ahome": 1
+    },
     "activeCases": {
         "Ahome": 521,
         "Culiacán": 520,

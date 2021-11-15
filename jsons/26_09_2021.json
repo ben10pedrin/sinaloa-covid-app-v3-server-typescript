@@ -12,7 +12,10 @@
         "Cosalá": 2,
         "Sinaloa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 7,
+        "Mazatlán": 3
+    },
     "activeCases": {
         "Ahome": 189,
         "Guasave": 153,

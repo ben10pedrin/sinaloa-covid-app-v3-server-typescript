@@ -1,5 +1,5 @@
 {
-    "dateStr": "Sábado 2 De Octubre",
+    "dateStr": "Viernes 1 De Octubre",
     "globalNewDeaths": 5,
     "globalNewCases": 82,
     "trafficLight": "Verde",
@@ -16,7 +16,11 @@
         "Rosario": 1,
         "Concordia": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 2,
+        "Ahome": 2,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 208,
         "Guasave": 161,

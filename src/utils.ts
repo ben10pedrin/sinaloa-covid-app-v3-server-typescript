@@ -49,7 +49,7 @@ export const formatHumanDate = (filename: string) => {
   // Split filename
   let [d, m, y]: Array<string> = filename.split("_");
   // Get date
-  const date = new Date(`${y}-${m}-${parseInt(d) + 1}`);
+  const date = new Date(parseInt(y),parseInt(m)-1,parseInt(d));
   // Actual program
   const weekday = getDatePart({ weekday: "long" }, date);
   const dayOfMonth = getDatePart({ day: "numeric" },date);

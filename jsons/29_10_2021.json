@@ -12,7 +12,14 @@
         "Sinaloa": 3,
         "Elota": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 7,
+        "Culiacán": 5,
+        "El Fuerte": 3,
+        "Elota": 2,
+        "Badiraguato": 2,
+        "Guasave": 1
+    },
     "activeCases": {
         "Culiacán": 79,
         "Ahome": 59,

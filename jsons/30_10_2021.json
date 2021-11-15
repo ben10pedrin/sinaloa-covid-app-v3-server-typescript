@@ -16,7 +16,10 @@
         "Escuinapa": 1,
         "Cosalá": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 4,
+        "Culiacán": 3
+    },
     "activeCases": {
         "Culiacán": 82,
         "Ahome": 54,

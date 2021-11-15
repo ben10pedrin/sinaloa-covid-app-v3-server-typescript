@@ -1,5 +1,5 @@
 {
-    "dateStr": "Jueves 7 De Octubre",
+    "dateStr": "Miércoles 6 De Octubre",
     "globalNewDeaths": 7,
     "globalNewCases": 72,
     "trafficLight": "Verde",
@@ -12,7 +12,11 @@
         "Navolato": 2,
         "Salvador Alvarado": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 4,
+        "Guasave": 2,
+        "Escuinapa": 1
+    },
     "activeCases": {
         "Ahome": 172,
         "Guasave": 118,

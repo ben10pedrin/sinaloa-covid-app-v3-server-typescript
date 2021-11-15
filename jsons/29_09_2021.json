@@ -13,7 +13,11 @@
         "Choix": 2,
         "Salvador Alvarado": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 4,
+        "Guasave": 2,
+        "Angostura": 1
+    },
     "activeCases": {
         "Ahome": 217,
         "Guasave": 157,

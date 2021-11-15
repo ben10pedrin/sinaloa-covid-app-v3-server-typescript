@@ -18,7 +18,15 @@
         "El Fuerte": 4,
         "Mocorito": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Mazatlán": 6,
+        "Ahome": 4,
+        "Culiacán": 3,
+        "Guasave": 2,
+        "Sinaloa": 2,
+        "El Fuerte": 1,
+        "Navolato": 1
+    },
     "activeCases": {
         "Ahome": 524,
         "Culiacán": 423,

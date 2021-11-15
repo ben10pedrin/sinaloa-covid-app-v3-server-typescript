@@ -14,7 +14,16 @@
         "Badiraguato": 3,
         "Mazatlán": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 5,
+        "Elota": 4,
+        "Guasave": 3,
+        "Mazatlán": 2,
+        "El Fuerte": 2,
+        "Sinaloa": 1,
+        "Choix": 1,
+        "Navolato": 1
+    },
     "activeCases": {
         "Ahome": 246,
         "Culiacán": 170,

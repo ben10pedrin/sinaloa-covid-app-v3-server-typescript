@@ -20,7 +20,16 @@
         "San Ignacio": 1,
         "Choix": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 45,
+        "Guasave": 7,
+        "Ahome": 6,
+        "Mazatlán": 2,
+        "Cosalá": 1,
+        "Rosario": 1,
+        "Mocorito": 1,
+        "Salvador Alvarado": 1
+    },
     "activeCases": {
         "Ahome": 483,
         "Culiacán": 412,

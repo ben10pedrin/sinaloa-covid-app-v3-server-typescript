@@ -10,7 +10,13 @@
         "Mazatlán": 7,
         "Escuinapa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 4,
+        "Culiacán": 3,
+        "Mazatlán": 2,
+        "Escuinapa": 2,
+        "Concordia": 1
+    },
     "activeCases": {
         "Ahome": 143,
         "Guasave": 118,

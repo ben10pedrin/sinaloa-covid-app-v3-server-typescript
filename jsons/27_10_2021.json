@@ -12,7 +12,14 @@
         "Navolato": 3,
         "Guasave": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 6,
+        "Mazatlán": 2,
+        "Sinaloa": 2,
+        "Ahome": 1,
+        "El Fuerte": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Culiacán": 89,
         "Ahome": 67,

@@ -19,7 +19,14 @@
         "Sinaloa": 4,
         "Mocorito": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Mazatlán": 28,
+        "Culiacán": 16,
+        "Ahome": 9,
+        "Guasave": 6,
+        "Navolato": 6,
+        "Concordia": 1
+    },
     "activeCases": {
         "Ahome": 495,
         "Culiacán": 412,

@@ -90,13 +90,14 @@ export class PdfExtractor {
       while (i < m.length) {
         for (const word of EXCLUSION_LIST) {
           if (m[i].includes(word)) {
-            m.pop(i);
+            m.splice(i,1);
             i -= 1;
             break;
           }
         }
         i += 1;
       }
+      
       if (m.length > 0) {
         m = m.join(" ");
         this.output["newDeaths"] = stringToSanatizedJson(m);

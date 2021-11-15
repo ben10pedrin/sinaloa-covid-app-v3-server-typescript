@@ -11,7 +11,11 @@
         "Salvador Alvarado": 5,
         "Mazatlán": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3,
+        "Mazatlán": 2,
+        "Guasave": 2
+    },
     "activeCases": {
         "Ahome": 102,
         "Culiacán": 83,

@@ -13,7 +13,13 @@
         "Salvador Alvarado": 3,
         "Mazatlán": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 2,
+        "Ahome": 1,
+        "Salvador Alvarado": 1,
+        "El Fuerte": 1,
+        "Escuinapa": 1
+    },
     "activeCases": {
         "Ahome": 212,
         "Guasave": 156,

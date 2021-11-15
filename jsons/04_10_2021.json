@@ -1,5 +1,5 @@
 {
-    "dateStr": "Martes 5 De Octubre",
+    "dateStr": "Lunes 4 De Octubre",
     "globalNewDeaths": 5,
     "globalNewCases": 75,
     "trafficLight": "Verde",
@@ -11,7 +11,11 @@
         "Sinaloa": 2,
         "Angostura": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 3,
+        "Guasave": 1,
+        "Ahome": 1
+    },
     "activeCases": {
         "Ahome": 196,
         "Guasave": 134,

@@ -1,5 +1,5 @@
 {
-    "dateStr": "Invalid Date Invalid Date De Invalid Date",
+    "dateStr": "Domingo 31 De Octubre",
     "globalNewDeaths": 1,
     "globalNewCases": 57,
     "trafficLight": "Verde",
@@ -10,7 +10,9 @@
         "El Fuerte": 7,
         "Mazatlán": 7
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 1
+    },
     "activeCases": {
         "Culiacán": 93,
         "Ahome": 53,

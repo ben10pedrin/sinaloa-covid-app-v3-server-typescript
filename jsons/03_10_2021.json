@@ -1,5 +1,5 @@
 {
-    "dateStr": "Lunes 4 De Octubre",
+    "dateStr": "Domingo 3 De Octubre",
     "globalNewDeaths": 6,
     "globalNewCases": 78,
     "trafficLight": "Verde",
@@ -16,7 +16,10 @@
         "San Ignacio": 1,
         "Badiraguato": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 4,
+        "Ahome": 2
+    },
     "activeCases": {
         "Ahome": 189,
         "Guasave": 130,

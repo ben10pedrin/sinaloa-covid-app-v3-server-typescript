@@ -12,7 +12,12 @@
         "Navolato": 3,
         "Rosario": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Escuinapa": 6,
+        "Rosario": 5,
+        "Guasave": 5,
+        "Ahome": 3
+    },
     "activeCases": {
         "Culiacán": 89,
         "Ahome": 64,

@@ -1,5 +1,5 @@
 {
-    "dateStr": "Sábado 4 De Septiembre",
+    "dateStr": "Viernes 3 De Septiembre",
     "globalNewDeaths": 27,
     "globalNewCases": 159,
     "trafficLight": "Amarillo",
@@ -16,7 +16,14 @@
         "Sinaloa": 2,
         "Angostura": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 12,
+        "Guasave": 10,
+        "Culiacán": 2,
+        "Sinaloa": 1,
+        "El Fuerte": 1,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 365,
         "Culiacán": 322,

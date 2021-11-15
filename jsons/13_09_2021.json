@@ -17,7 +17,12 @@
         "Cosalá": 3,
         "Escuinapa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 16,
+        "Mazatlán": 3,
+        "Ahome": 2,
+        "Guasave": 2
+    },
     "activeCases": {
         "Ahome": 248,
         "Guasave": 156,

@@ -12,7 +12,15 @@
         "Rosario": 5,
         "Mazatlán": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 5,
+        "Ahome": 5,
+        "Mazatlán": 2,
+        "Navolato": 2,
+        "Sinaloa": 2,
+        "Mocorito": 2,
+        "Culiacán": 2
+    },
     "activeCases": {
         "Ahome": 246,
         "Culiacán": 165,

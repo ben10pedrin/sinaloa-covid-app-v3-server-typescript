@@ -1,5 +1,5 @@
 {
-    "dateStr": "Jueves 2 De Septiembre",
+    "dateStr": "Miércoles 1 De Septiembre",
     "globalNewDeaths": 29,
     "globalNewCases": 183,
     "trafficLight": "Amarillo",
@@ -16,7 +16,18 @@
         "Mocorito": 3,
         "Angostura": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 9,
+        "Guasave": 6,
+        "Sinaloa": 3,
+        "Mazatlán": 2,
+        "Mocorito": 2,
+        "Angostura": 2,
+        "Escuinapa": 2,
+        "El Fuerte": 1,
+        "Concordia": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Ahome": 378,
         "Culiacán": 318,

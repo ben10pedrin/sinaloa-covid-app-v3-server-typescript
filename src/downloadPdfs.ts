@@ -62,7 +62,6 @@ const downloadSinglePdf = async (jsonFilename: string, filename: string): Promis
         fs.writeFileSync('./jsons/'+jsonFilename, pdfJson)
         return true
     } catch (error) {
-        console.log(error)
         return false
     }
 }

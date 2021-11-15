@@ -11,7 +11,11 @@
         "Mazatlán": 4,
         "Escuinapa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 4,
+        "Mazatlán": 1,
+        "Escuinapa": 1
+    },
     "activeCases": {
         "Ahome": 136,
         "Mazatlán": 100,

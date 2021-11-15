@@ -11,7 +11,12 @@
         "Sinaloa": 3,
         "Escuinapa": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 2,
+        "Ahome": 1,
+        "Guasave": 1,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 125,
         "Culiacán": 93,

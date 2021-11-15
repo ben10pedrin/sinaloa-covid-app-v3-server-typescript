@@ -14,7 +14,15 @@
         "Badiraguato": 3,
         "Sinaloa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "El Fuerte": 3,
+        "Guasave": 2,
+        "Mocorito": 2,
+        "Mazatlán": 1,
+        "Salvador Alvarado": 1,
+        "Angostura": 1,
+        "Sinaloa": 1
+    },
     "activeCases": {
         "Ahome": 226,
         "Culiacán": 133,

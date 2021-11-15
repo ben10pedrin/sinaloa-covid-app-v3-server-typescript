@@ -1,5 +1,5 @@
 {
-    "dateStr": "Viernes 8 De Octubre",
+    "dateStr": "Jueves 7 De Octubre",
     "globalNewDeaths": 10,
     "globalNewCases": 70,
     "trafficLight": "Verde",
@@ -12,7 +12,14 @@
         "Navolato": 4,
         "Angostura": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 4,
+        "Escuinapa": 2,
+        "Guasave": 1,
+        "Rosario": 1,
+        "Angostura": 1,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 153,
         "Guasave": 117,

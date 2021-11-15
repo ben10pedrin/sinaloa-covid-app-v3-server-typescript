@@ -1,5 +1,5 @@
 {
-    "dateStr": "Sábado 9 De Octubre",
+    "dateStr": "Viernes 8 De Octubre",
     "globalNewDeaths": 13,
     "globalNewCases": 67,
     "trafficLight": "Verde",
@@ -14,7 +14,15 @@
         "Mocorito": 2,
         "Sinaloa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3,
+        "Culiacán": 3,
+        "El Fuerte": 3,
+        "Guasave": 1,
+        "San Ignacio": 1,
+        "Choix": 1,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 155,
         "Guasave": 115,

@@ -14,7 +14,20 @@
         "Culiacán": 3,
         "Mazatlán": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 10,
+        "Ahome": 4,
+        "Escuinapa": 4,
+        "Navolato": 3,
+        "El Fuerte": 2,
+        "Mazatlán": 1,
+        "Elota": 1,
+        "Cosalá": 1,
+        "Rosario": 1,
+        "Mocorito": 1,
+        "Salvador Alvarado": 1,
+        "Guasave": 1
+    },
     "activeCases": {
         "Ahome": 276,
         "Culiacán": 173,

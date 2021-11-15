@@ -16,7 +16,11 @@
         "Elota": 3,
         "Sinaloa": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 22,
+        "Ahome": 2,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Culiacán": 721,
         "Ahome": 584,

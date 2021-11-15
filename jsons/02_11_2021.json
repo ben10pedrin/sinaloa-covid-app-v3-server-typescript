@@ -1,5 +1,5 @@
 {
-    "dateStr": "Miércoles 3 De Noviembre",
+    "dateStr": "Martes 2 De Noviembre",
     "globalNewDeaths": 8,
     "globalNewCases": 38,
     "trafficLight": "Verde",
@@ -15,7 +15,13 @@
         "Elota": 1,
         "San Ignacio": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 3,
+        "Ahome": 2,
+        "Culiacán": 1,
+        "Navolato": 1,
+        "Sinaloa": 1
+    },
     "activeCases": {
         "Culiacán": 106,
         "Mazatlán": 45,

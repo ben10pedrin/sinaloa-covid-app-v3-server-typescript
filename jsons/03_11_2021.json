@@ -1,5 +1,5 @@
 {
-    "dateStr": "Jueves 4 De Noviembre",
+    "dateStr": "Miércoles 3 De Noviembre",
     "globalNewDeaths": 7,
     "globalNewCases": 26,
     "trafficLight": "Verde",
@@ -11,7 +11,12 @@
         "Mazatlán": 1,
         "Navolato": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3,
+        "Guasave": 2,
+        "Culiacán": 1,
+        "El Fuerte": 1
+    },
     "activeCases": {
         "Culiacán": 107,
         "Mazatlán": 43,

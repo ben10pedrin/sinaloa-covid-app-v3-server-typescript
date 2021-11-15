@@ -13,7 +13,11 @@
         "Sinaloa": 1,
         "Choix": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Guasave": 3,
+        "Ahome": 2,
+        "Culiacán": 1
+    },
     "activeCases": {
         "Culiacán": 98,
         "Ahome": 78,

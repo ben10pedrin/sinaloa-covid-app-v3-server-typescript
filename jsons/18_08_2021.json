@@ -18,7 +18,16 @@
         "Badiraguato": 5,
         "Sinaloa": 4
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 8,
+        "Mazatlán": 6,
+        "Ahome": 6,
+        "Guasave": 3,
+        "Navolato": 3,
+        "Salvador Alvarado": 1,
+        "Mocorito": 1,
+        "Angostura": 1
+    },
     "activeCases": {
         "Culiacán": 575,
         "Ahome": 478,

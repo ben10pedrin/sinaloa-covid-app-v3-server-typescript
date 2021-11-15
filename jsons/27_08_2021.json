@@ -12,7 +12,17 @@
         "Elota": 10,
         "Escuinapa": 10
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 7,
+        "Ahome": 4,
+        "Mazatlán": 3,
+        "Guasave": 2,
+        "Sinaloa": 1,
+        "Escuinapa": 1,
+        "Elota": 1,
+        "Choix": 1,
+        "Navolato": 1
+    },
     "activeCases": {
         "Ahome": 535,
         "Culiacán": 436,

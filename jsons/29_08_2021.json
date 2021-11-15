@@ -16,7 +16,13 @@
         "San Ignacio": 1,
         "Choix": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 6,
+        "Mazatlán": 3,
+        "Ahome": 2,
+        "Guasave": 2,
+        "Navolato": 2
+    },
     "activeCases": {
         "Ahome": 487,
         "Culiacán": 408,

@@ -1,5 +1,5 @@
 {
-    "dateStr": "Viernes 5 De Noviembre",
+    "dateStr": "Jueves 4 De Noviembre",
     "globalNewDeaths": 7,
     "globalNewCases": 35,
     "trafficLight": "Verde",
@@ -13,7 +13,13 @@
         "Salvador Alvarado": 1,
         "Elota": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "El Fuerte": 2,
+        "Ahome": 2,
+        "Culiacán": 1,
+        "Guasave": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Culiacán": 101,
         "Guasave": 44,

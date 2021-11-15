@@ -14,7 +14,10 @@
         "Escuinapa": 4,
         "Concordia": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 6,
+        "Mazatlán": 6
+    },
     "activeCases": {
         "Ahome": 433,
         "Culiacán": 366,

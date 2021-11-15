@@ -15,7 +15,12 @@
         "Salvador Alvarado": 2,
         "Mocorito": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 5,
+        "Culiacán": 4,
+        "Mazatlán": 2,
+        "Guasave": 1
+    },
     "activeCases": {
         "Ahome": 185,
         "Guasave": 152,

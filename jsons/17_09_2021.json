@@ -17,7 +17,13 @@
         "Mocorito": 2,
         "Angostura": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 4,
+        "Ahome": 3,
+        "Mazatlán": 2,
+        "Elota": 2,
+        "Guasave": 1
+    },
     "activeCases": {
         "Ahome": 205,
         "Culiacán": 127,

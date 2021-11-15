@@ -14,7 +14,12 @@
         "Mocorito": 2,
         "Escuinapa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 3,
+        "El Fuerte": 3,
+        "Sinaloa": 1,
+        "Concordia": 1
+    },
     "activeCases": {
         "Ahome": 199,
         "Guasave": 142,

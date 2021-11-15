@@ -1,5 +1,5 @@
 {
-    "dateStr": "Miércoles 6 De Octubre",
+    "dateStr": "Martes 5 De Octubre",
     "globalNewDeaths": 6,
     "globalNewCases": 72,
     "trafficLight": "Verde",
@@ -14,7 +14,13 @@
         "Escuinapa": 1,
         "Badiraguato": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 2,
+        "Guasave": 1,
+        "Choix": 1,
+        "Sinaloa": 1,
+        "Mazatlán": 1
+    },
     "activeCases": {
         "Ahome": 184,
         "Guasave": 124,

@@ -13,7 +13,9 @@
         "Badiraguato": 2,
         "Sinaloa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 3
+    },
     "activeCases": {
         "Culiacán": 94,
         "Ahome": 92,

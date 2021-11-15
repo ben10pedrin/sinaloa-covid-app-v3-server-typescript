@@ -11,7 +11,14 @@
         "El Fuerte": 3,
         "Escuinapa": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Mazatlán": 29,
+        "Culiacán": 25,
+        "Rosario": 2,
+        "Concordia": 1,
+        "Cosalá": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Ahome": 490,
         "Culiacán": 459,

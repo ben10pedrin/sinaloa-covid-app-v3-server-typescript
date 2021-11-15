@@ -18,7 +18,11 @@
         "San Ignacio": 1,
         "Concordia": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 5,
+        "Guasave": 2,
+        "Ahome": 1
+    },
     "activeCases": {
         "Ahome": 173,
         "Guasave": 122,

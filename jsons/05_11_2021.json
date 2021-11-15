@@ -1,5 +1,5 @@
 {
-    "dateStr": "Sábado 6 De Noviembre",
+    "dateStr": "Viernes 5 De Noviembre",
     "globalNewDeaths": 60,
     "globalNewCases": 661,
     "trafficLight": "Verde",
@@ -22,7 +22,19 @@
         "San Ignacio": 3,
         "Choix": 3
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 18,
+        "Mazatlán": 15,
+        "Ahome": 12,
+        "Guasave": 4,
+        "Sinaloa": 3,
+        "Navolato": 2,
+        "Salvador Alvarado": 2,
+        "El Fuerte": 1,
+        "Angostura": 1,
+        "Escuinapa": 1,
+        "Elota": 1
+    },
     "activeCases": {
         "Culiacán": 78,
         "Guasave": 35,

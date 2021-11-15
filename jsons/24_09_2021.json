@@ -14,7 +14,13 @@
         "Mazatlán": 4,
         "Salvador Alvarado": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 8,
+        "Mazatlán": 6,
+        "Mocorito": 1,
+        "Rosario": 1,
+        "Culiacán": 1
+    },
     "activeCases": {
         "Ahome": 189,
         "Culiacán": 146,

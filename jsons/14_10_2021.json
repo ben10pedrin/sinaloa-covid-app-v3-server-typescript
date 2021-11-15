@@ -13,7 +13,12 @@
         "Mocorito": 1,
         "Choix": 1
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 3,
+        "Ahome": 2,
+        "Guasave": 1,
+        "El Fuerte": 1
+    },
     "activeCases": {
         "Ahome": 133,
         "Mazatlán": 103,

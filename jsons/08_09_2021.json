@@ -1,5 +1,5 @@
 {
-    "dateStr": "Jueves 9 De Septiembre",
+    "dateStr": "Miércoles 8 De Septiembre",
     "globalNewDeaths": 28,
     "globalNewCases": 106,
     "trafficLight": "Amarillo",
@@ -12,7 +12,15 @@
         "Culiacán": 8,
         "Mazatlán": 5
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Culiacán": 15,
+        "Guasave": 6,
+        "Ahome": 3,
+        "Mazatlán": 1,
+        "Salvador Alvarado": 1,
+        "Badiraguato": 1,
+        "Angostura": 1
+    },
     "activeCases": {
         "Ahome": 267,
         "Culiacán": 207,

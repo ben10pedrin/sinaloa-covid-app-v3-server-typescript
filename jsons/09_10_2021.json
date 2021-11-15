@@ -13,7 +13,13 @@
         "Elota": 3,
         "Salvador Alvarado": 2
     },
-    "newDeaths": null,
+    "newDeaths": {
+        "Ahome": 4,
+        "Culiacán": 3,
+        "Mazatlán": 3,
+        "Escuinapa": 3,
+        "Guasave": 2
+    },
     "activeCases": {
         "Ahome": 146,
         "Culiacán": 117,
