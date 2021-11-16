@@ -34,7 +34,7 @@ export const graphs = (cachedJsons: {[index: string]:any}) => {
         pushEstatalCasesOrDeaths("newDeaths", "Estatal", date, cachedJsons, schema)
     }
 
-    fs.writeFileSync('./api/graphs.json', JSON.stringify(schema, null, 4))
+    fs.writeFileSync('./api/graphs.json', JSON.stringify(schema))
 }
 
 const pushCityNewCasesOrNewDeaths = (option:string, name:string, date: string, cachedJsons: {[index: string]:any}, schema:any ) => {

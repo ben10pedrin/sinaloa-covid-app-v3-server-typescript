@@ -19,5 +19,5 @@ export const map_compressed = (todayJson: {[index: string]:any}) => {
         feature["properties"]["color"] = casesToHexGradient(activeCases)
     }
     
-    fs.writeFileSync('./api/map_compressed.json', JSON.stringify(schema, null, 4))
+    fs.writeFileSync('./api/map_compressed.json', JSON.stringify(schema))
 }

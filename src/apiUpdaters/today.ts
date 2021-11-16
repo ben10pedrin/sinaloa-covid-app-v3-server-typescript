@@ -30,7 +30,7 @@ export const today = (todayJson: {[index: string]:any}) => {
     // newDeaths
     getNewCasesOrDeaths("newDeaths", todayJson, schema)
     
-    fs.writeFileSync('./api/today.json', JSON.stringify(schema, null, 4))
+    fs.writeFileSync('./api/today.json', JSON.stringify(schema))
 }
 
 const getNewCasesOrDeaths = (option: string, todayJson: {[index: string]:any}, schema: any) => {
